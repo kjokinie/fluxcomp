@@ -1,0 +1,3 @@
+[submodule "fluxcomp"]
+	path = fluxcomp
+	url = git://git.directfb.org/git/directfb/core/flux
